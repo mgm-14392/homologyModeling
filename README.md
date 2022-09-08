@@ -13,3 +13,5 @@ These restrains are on myModel.py. These restraints include:<br>
 Scores are: DOPE, GA341, zDOPE and procheck per chain.<br>
 
 To run modeller in paraller with slurm run makemodels_slurm.sh
+
+mgm1439(at)gmail.com
